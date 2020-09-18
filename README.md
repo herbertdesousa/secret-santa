@@ -1,6 +1,6 @@
 # secret-santa
 
-Secret Santa Game
+| Secret Santa Game
 
 random a user that you should to give a gift
 
